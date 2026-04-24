@@ -1,1 +1,8 @@
-
+footer {
+    background-color: darkviolet;
+    color:black;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
